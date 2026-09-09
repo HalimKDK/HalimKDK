@@ -24,11 +24,11 @@ The following are some of the projects I have worked on throughout my studies an
 
 | **Project** | **Description** | **Technologies** | **Repository** |
 |---|---|---|---|
-| **Two-Factor Authentication Web Application** | A full-stack web application implementing secure user authentication through Email OTP and TOTP. The system includes secure password hashing, session management, rate limiting, QR-code based authenticator setup and role-based access control. | Node.js, Express, MongoDB, JavaScript, HTML & CSS | [Repository](#) |
-| **FFSmart – Restaurant Inventory System** | A web-based inventory management system designed to help restaurants manage stock, monitor inventory and improve the organisation of products and supplies. | Node.js, Express, MongoDB Atlas, JavaScript, HTML & CSS | [Repository](#) |
-| **CalorEase – Calorie Tracker** | An Android application designed to help users track their calorie intake and manage their daily nutritional goals. | Java, Android Studio, SQLite | [Repository](#) |
-| **Hotel Booking System** | A Python-based application developed to manage hotel bookings and provide functionality for handling reservations and customer information. | Python | [Repository](#) |
-| **Word Scramble Game** | A C++ game developed around word scrambling and problem-solving, demonstrating object-oriented programming and core programming principles. | C++ | [Repository](#) |
+| **Project Name Here** |description | technologies | [Repository](#) |
+| **Project Name Here** |description | technologies | [Repository](#) |
+| **Project Name Here** |description | technologies | [Repository](#) |
+| **Project Name Here** |description | technologies | [Repository](#) |
+
 
 ---
 
