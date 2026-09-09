@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a Computer Science graduate with a **BSc (Hons) Computer Science (2:1)** from Nottingham Trent University. I have hands-on experience in software development, backend development, database management, cybersecurity, Android development, testing, and version control.
+I'm a Computer Science graduate with a **BSc (Hons) degree, achieving a 2:1** from Nottingham Trent University. I have hands-on experience in software development, backend development, database management, cybersecurity, Android development, testing, and version control.
 
 I'm particularly interested in **software engineering, technology consulting, cybersecurity, and data**, and I enjoy building practical applications and solving technical problems.
 
@@ -34,7 +34,7 @@ The following are some of the projects I have worked on throughout my studies an
 
 ### 💻 Currently Working On
 
-Currently focused on:
+Currently working on:
 
 - Developing my technical skills across software engineering and data.
 - Building and improving personal projects to strengthen my development portfolio.
@@ -59,21 +59,13 @@ Currently focused on:
 
 ### 🌐 Contacts & Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halim-kadiku-19a499208/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HalimKDK)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadikuhalim@gmail.com)
 
----
 
-### 📊 GitHub Stats
-
-![Halim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
-
----
 
 <p align="center">
   <i>Building, learning and improving one project at a time.</i>
