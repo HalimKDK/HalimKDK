@@ -1,4 +1,4 @@
-# 👋 Halim Kadiku
+# 💻 Halim Kadiku
 
 ---
 
