@@ -24,7 +24,7 @@ The following are some of the projects I have worked on throughout my studies an
 
 | **Project** | **Description** | **Technologies** | **Repository** |
 |---|---|---|---|
-| **Project Name Here** |description | technologies | [Repository](#) |
+| **NTU Timetabling System** |A C++ console application that simulates a simplified version of the Nottingham Trent University timetabling system. | C++, GitHub, VS Code | [Repository](https://github.com/HalimKDK/NTU_Timetabling_System.git) |
 | **Project Name Here** |description | technologies | [Repository](#) |
 | **Project Name Here** |description | technologies | [Repository](#) |
 | **Project Name Here** |description | technologies | [Repository](#) |
