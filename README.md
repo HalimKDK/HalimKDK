@@ -14,7 +14,7 @@ I'm particularly interested in **software engineering, technology consulting, cy
 
 Here are some of the technologies and tools I have experience working with.
 
-![Tech Stack](https://skillicons.dev/icons?i=java,python,cpp,javascript,nodejs,express,mongodb,mysql,sqlite,html,css,git,github,docker,jenkins,androidstudio,vscode)
+![Tech Stack](https://skillicons.dev/icons?i=java,python,cpp,javascript,mongodb,mysql,git,github,androidstudio,vscode)
 
 ---
 
