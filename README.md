@@ -25,7 +25,7 @@ The following are some of the projects I have worked on throughout my studies an
 | **Project** | **Description** | **Technologies** | **Repository** |
 |---|---|---|---|
 | **NTU Timetabling System** |A C++ console application that simulates a simplified version of the Nottingham Trent University timetabling system. | C++, GitHub, VS Code | [Repository](https://github.com/HalimKDK/NTU_Timetabling_System.git) |
-| **pennywise-finance-tracker** |PennyWise is a personal finance web app built with Python and Flask. Users can record income and expenses, review their transactions, and see summaries of their finances. | Python and Flask, SQLite, HTML and CSS, JavaScript and Chart.js | [Repository](https://github.com/HalimKDK/pennywise-finance-tracker) |
+| **Pennywise-finance-tracker** |PennyWise is a personal finance web app built with Python and Flask. Users can record income and expenses, review their transactions, and see summaries of their finances. | Python and Flask, SQLite, HTML and CSS, JavaScript and Chart.js | [Repository](https://github.com/HalimKDK/pennywise-finance-tracker) |
 | **Project Name Here** |description | technologies | [Repository](#) |
 | **Project Name Here** |description | technologies | [Repository](#) |
 
